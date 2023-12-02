@@ -4,4 +4,4 @@ The Consumer Behavior and Shopping Habits Dataset is a valuable resource for und
 
 Conclusion and Insights:
 a. Summarize the key findings from your data wrangling process.
-b. Provide insights into consumer behavior based on the dataset.
+
